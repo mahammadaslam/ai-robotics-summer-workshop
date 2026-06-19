@@ -1,0 +1,6 @@
+{
+  "name": "AI & Robotics Summer Workshop",
+  "description": "Unlock your child's creativity with our 4-week premium online AI and Robotics summer workshop designed for ages 8-14. Hands-on projects, future-ready skills, and expert mentoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
