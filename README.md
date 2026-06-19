@@ -8,7 +8,7 @@ This project was developed as part of the Kidrove Web Development Internship Ass
 
 * **Name:** Mahammad Aslam
 * **Role:** Full-Stack Developer
-* **GitHub:** [https://github.com/yourusername/ai-robotics-summer-workshop](https://github.com/yourusername/ai-robotics-summer-workshop)
+* **GitHub:** https://github.com/mahammadaslam/ai-robotics-summer-workshop.git
 
 ---
 
@@ -217,8 +217,8 @@ Developed as part of the Kidrove Web Development Internship Assessment. This pro
 
 ### Live Application
 
-https://your-vercel-app-url.vercel.app
+https://ai-robotics-summer-workshop-one.vercel.app
 
 ### GitHub Repository
 
-https://github.com/your-username/your-repository-name
+https://github.com/mahammadaslam/ai-robotics-summer-workshop.git
